@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  name: MyString
+  native_name: MyString
+  phone_code: MyString
+  continent_code: MyString
+  capital: MyString
+  currency: MyString
+
+two:
+  code: MyString
+  name: MyString
+  native_name: MyString
+  phone_code: MyString
+  continent_code: MyString
+  capital: MyString
+  currency: MyString
